@@ -1,0 +1,9 @@
+# Project exclude paths
+/SpirngMVC-jsp/target/
+/SpringMVC-annotation/target/
+/SpringMVC-demo01/target/
+/SpringMVC-demo02/target/
+/SpringMVC-demo03/target/
+/SpringMVC-demo04/target/
+/SpringMVC-demo05/target/
+/SpringMVC-rest/target/

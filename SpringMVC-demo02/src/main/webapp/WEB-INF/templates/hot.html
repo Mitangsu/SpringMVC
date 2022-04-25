@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>dd</title>
+</head>
+<body>
+<h2>购物指南</h2>
+<a th:href="@{/shopping}" target="_blank">注册会员</a>
+<form th:action="@{/shopping}">
+    <input type="submit" value="登录商城"><br>
+    <input type="submit" value="选购商品"><br>
+    <input type="submit" value="提交订单"><br>
+</form>
+</body>
+</html>
